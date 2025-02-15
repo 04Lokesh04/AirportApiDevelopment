@@ -1,0 +1,6 @@
+id,name,alt_name,country_code_two,country_code_three,flag_app,mobile_code,continent_id,country_flag
+71,Guyana,NULL,GY, GUY, 🇬🇾,592,5, flag_gy
+72, Haiti,NULL, HT, HTI, 🇭🇹,509,4, flag_ht
+75, Iceland,NULL, IS, ISL, 🇮🇸,354,3, flag_is
+76,India,NULL, IN , IND, 🇮🇳,91,1, flag_in
+79,Iraq,NULL,IQ, IRQ, 🇮🇶,964,1, flag_iq

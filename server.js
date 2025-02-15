@@ -1,5 +1,5 @@
 const express= require('express')
-const airportroute=require("./src/routes/airportroute")
+const airportroute=require("./src/routes/airportRoute")
 const dotenv= require('dotenv')
 const AppDataSource=require("./src/database/DataSource")
 dotenv.config()
